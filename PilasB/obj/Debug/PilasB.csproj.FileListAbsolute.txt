@@ -1,0 +1,10 @@
+C:\Users\dbern\source\repos\PilasB\PilasB\bin\Debug\PilasB.exe.config
+C:\Users\dbern\source\repos\PilasB\PilasB\bin\Debug\PilasB.exe
+C:\Users\dbern\source\repos\PilasB\PilasB\bin\Debug\PilasB.pdb
+C:\Users\dbern\source\repos\PilasB\PilasB\obj\Debug\PilasB.csproj.AssemblyReference.cache
+C:\Users\dbern\source\repos\PilasB\PilasB\obj\Debug\PilasB.Form1.resources
+C:\Users\dbern\source\repos\PilasB\PilasB\obj\Debug\PilasB.Properties.Resources.resources
+C:\Users\dbern\source\repos\PilasB\PilasB\obj\Debug\PilasB.csproj.GenerateResource.cache
+C:\Users\dbern\source\repos\PilasB\PilasB\obj\Debug\PilasB.csproj.CoreCompileInputs.cache
+C:\Users\dbern\source\repos\PilasB\PilasB\obj\Debug\PilasB.exe
+C:\Users\dbern\source\repos\PilasB\PilasB\obj\Debug\PilasB.pdb
